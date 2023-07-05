@@ -201,7 +201,9 @@ Mi nombre es Jairo Quintas y mi correo es: jairomqcode@gmail.com
 
 
 # Tipos de datos.
-* Dato tipo None:
+* **Dato tipo None**:
+Denota falta de valor.
+
 ```python{
 # Definimos la variable:
 nada = "None"
