@@ -214,8 +214,8 @@ Sol:
 None  
 <class 'NoneType'>  
 
-* Dato tipo String:
-   Son un tipo de datos compuestos por **secuencias de caracteres** que representan texto. Estas cadenas de texto **son de tipo str** y se delimitan mediante el uso de comillas simples o dobles.  
+* **Dato tipo String**:
+Son un tipo de datos compuestos por **secuencias de caracteres** que representan texto. Estas cadenas de texto **son de tipo str** y se delimitan mediante el uso de comillas simples o dobles.  
 ```python{
 # Definimos la variable:
 cadena = "Hola Nico y Lau"
