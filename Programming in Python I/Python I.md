@@ -245,7 +245,9 @@ Sol:
 84  
 <class 'int'>  
 
-* Dato tipo flotante:
+* **Dato tipo flotante**:  
+Los números reales son los que **tienen decimales**. En Python se expresan mediante el tipo float.  
+
 ```python{
 # Definimos la variable:
 flotante = 84
