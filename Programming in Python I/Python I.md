@@ -275,7 +275,7 @@ Sol:
 True  
 <class 'bool'>
 
-* Dato tipo Lista:  
+* **Dato tipo Lista**:  
 La lista en Python **son variables que almacenan arrays**, internamente cada posición puede ser un tipo de datos distinto.
 
 Las listas en Python son:  
