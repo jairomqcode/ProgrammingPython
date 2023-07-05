@@ -279,8 +279,8 @@ True
 La lista en Python **son variables que almacenan arrays**, internamente cada posición puede ser un tipo de datos distinto.
 
 Las listas en Python son:  
-- heterogéneas: pueden estar conformadas por elementos de distintos tipo, incluidos otras listas.
-- mutables: sus elementos pueden modificarse.  
+- **heterogéneas**: pueden estar conformadas por elementos de distintos tipo, incluidos otras listas.
+- **mutables**: sus elementos pueden modificarse.  
 
 Una lista en Python **es una estructura de datos formada por una secuencia ordenada de objetos**.
 
@@ -309,7 +309,9 @@ Sol:
 [18, "treinta", 38, "cuarenta"]  
 <class 'list'>
 
-* Dato tipo Tupla:
+* **Dato tipo Tupla**:  
+Las tuplas **son objetos de tipo secuencia, específicamente es un tipo de dato lista inmutable**. Esta **no puede modificarse** de ningún modo después de su creación.
+
 ```python{
 # Definimos la variable:
 tuplaNoCambia = ("programación", "en", "python")
