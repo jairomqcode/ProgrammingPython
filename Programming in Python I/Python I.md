@@ -324,7 +324,11 @@ Sol:
 ("programación", "en", "python")  
 <class 'tuple'>
 
-* Dato tipo Diccionario:
+* **Dato tipo Diccionario**:  
+Define una **relación uno a uno entre claves y valores**. Un objeto mapping mapea valores hashable a objetos arbitrariamente. Los objetos Mapeos son objetos mutable. El diccionario es el único tipo de mapeo estándar actual.
+
+Los diccionarios **pueden ser creados colocando una lista separada por coma de pares «key:value» entre {}**.  
+
 ```python{
 # Definimos la variable:
 diccionario = {
