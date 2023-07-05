@@ -275,7 +275,15 @@ Sol:
 True  
 <class 'bool'>
 
-* Dato tipo Lista:
+* Dato tipo Lista:  
+La lista en Python **son variables que almacenan arrays**, internamente cada posición puede ser un tipo de datos distinto.
+
+Las listas en Python son:  
+- heterogéneas: pueden estar conformadas por elementos de distintos tipo, incluidos otras listas.
+- mutables: sus elementos pueden modificarse.  
+
+Una lista en Python **es una estructura de datos formada por una secuencia ordenada de objetos**.
+
 ```python{
 # Definimos la variable:
 lista = [38, 8, 4, 2023]
