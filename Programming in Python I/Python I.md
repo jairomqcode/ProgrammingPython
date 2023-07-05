@@ -260,7 +260,9 @@ Sol:
 8.4  
 <class 'float'>
 
-* Dato tipo Booleano:
+* Dato tipo Booleano:  
+Sólo puede tener dos valores: True (verdadero) y False (falso). Estos valores son especialmente importantes para las expresiones condicionales y los bucles.
+
 ```python{
 # Definimos la variable:
 booleano = True
