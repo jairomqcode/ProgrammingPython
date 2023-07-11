@@ -4,3 +4,5 @@ Los operadores aritméticos **se utilizan para realizar operaciones matemáticas
 | Operador | Nombre | Descripción |
 | :------: | :----: | :---------: |
 | + | Adición | Suma dos operandos juntos |
+| - | Sustracción | Resta el segundo operando del primer operando |
+
