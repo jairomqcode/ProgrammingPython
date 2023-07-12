@@ -56,4 +56,25 @@ La siguiente tabla muestra los operadores de asignación en Python, junto con su
 | %= | Asignación de módulo | Asigna el valor del operando derecho al operando izquierdo y luego calcula el módulo del valor del operando izquierdo por él |
 | **= | Asignación de exponenciación | Asigna el valor del operando derecho al operando izquierdo y luego eleva el valor del operando izquierdo a la potencia del valor del operando derecho |
 
-Existen otros operadores de asignación que pueden ser estudiados luego.
+Existen otros operadores de asignación que pueden ser estudiados luego.  
+```python{
+# Definimos una variable.
+edad = 5          # Asignación sencilla.
+# Asignación de adición:
+edad += 5
+#edad = edad + 5  # Equivalente a la anterior.
+# Resultados:
+print(edad)
+```
+Sol: 10  
+
+```python{
+# Definimos una variable.
+edad = 5          # Asignación sencilla.
+# Asignación de resta:
+edad -= 5
+#edad = edad - 5  # Equivalente a la anterior.
+# Resultados:
+print(edad)
+```
+Sol: 0  
