@@ -41,3 +41,18 @@ La multiplicación es: 70
 La división es: 1.4285714285714286  
 El módulo o resto de la división es: 3  
 10 elevada a la potencia de 7 es: 10000000  
+
+# Operadores de Asignación.  
+Los operadores de asignación **se utilizan para asignar valores a las variables** en Python. Son una herramienta poderosa que se puede usar para manipular variables en su código.  
+La siguiente tabla muestra los operadores de asignación en Python, junto con sus nombres y descripciones:  
+
+| Operador | Nombre | Descripción |
+| :------: | :----: | :---------: |
+| = | Asignación sencilla | Asigna el valor del operando derecho al operando izquierdo |
+| += | Asignación de adición | Asigna el valor del operando derecho al operando izquierdo y luego le suma el valor del operando izquierdo |
+| -= | Asignación de resta | Asigna el valor del operando derecho al operando izquierdo y luego le resta el valor del operando izquierdo |
+| *= | Asignación de multiplicación | Asigna el valor del operando derecho al operando izquierdo y luego multiplica el valor del operando izquierdo por él |
+| /= | Asignación de división | Asigna el valor del operando derecho al operando izquierdo y luego divide el valor del operando izquierdo por este |
+| %= | Asignación de módulo | Asigna el valor del operando derecho al operando izquierdo y luego calcula el módulo del valor del operando izquierdo por él |
+| **= | Asignación de exponenciación |Asigna el valor del operando derecho al operando izquierdo y luego eleva el valor del operando izquierdo a la potencia del valor del operando derecho |
+| &= | Asignación AND bit a bit | Asigna el valor del operando derecho al operando izquierdo y luego realiza una operación AND bit a bit en el valor del operando izquierdo con el valor del operando derecho |
