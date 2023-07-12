@@ -32,3 +32,12 @@ print(f" La división es: {division}")
 print(f" El módulo o resto de la división es: {modulo}")
 print(f" 10 elevada a la potencia 7 es: {potencia}")
 ```
+
+Sol:  
+***** Calculadora *****  
+La suma es: 17  
+La resta es: 3  
+La multiplicación es: 70  
+La división es: 1.4285714285714286  
+El módulo o resto de la división es: 3  
+10 elevada a la potencia de 7 es: 10000000  
