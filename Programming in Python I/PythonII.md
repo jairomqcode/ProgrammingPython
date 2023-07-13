@@ -89,8 +89,8 @@ La sintaxis de la función print() es la siguiente:
 ```python{
 # Entrada:
 nombre = input("Introduce tu nombre: ")
-
+edad = input("Cual es tu edad?: ")
 # Salida:
-print(f"Hola {nombre}, bienvenido")
+print(f"Hola {nombre}, bienvenido. Tienes {edad} años")
 ```
-Sol: Hola nombre_persona, bienvenido
+Sol: Hola nombre_persona, bienvenido. Tienes edad_persona años
