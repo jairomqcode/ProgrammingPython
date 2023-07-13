@@ -78,3 +78,9 @@ edad -= 5
 print(edad)
 ```
 Sol: 0  
+
+# Entrada y Salida de datos.  
+La función input () en Python **se usa para recibir información del usuario**. Es una función incorporada, lo que significa que es parte del propio lenguaje Python. La sintaxis de la función input() es la siguiente:  
+```python{
+entrada (solicitud)
+```
