@@ -93,4 +93,4 @@ edad = input("Cual es tu edad?: ")
 # Salida:
 print(f"Hola {nombre}, bienvenido. Tienes {edad} años")
 ```
-Sol: Hola niclau, bienvenido. Tienes 12 años
+Sol: Hola niclau, bienvenido. Tienes 38 años
