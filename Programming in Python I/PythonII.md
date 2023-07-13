@@ -84,8 +84,7 @@ La función input () en Python **se usa para recibir información del usuario**.
 ```python{
 input (prompt)
 ```
-La función print() en Python **se usa para imprimir la salida en la pantalla**. Es una función incorporada, lo que significa que es parte del propio lenguaje Python.  
-La sintaxis de la función print() es la siguiente:  
+La función print() en Python **se usa para imprimir la salida en la pantalla**. Es una función incorporada, lo que significa que es parte del propio lenguaje Python. La sintaxis de la función print() es la siguiente:  
 ```python{
 # Entrada:
 nombre = input("Introduce tu nombre: ")
