@@ -92,4 +92,23 @@ edad = input("Cual es tu edad?: ")
 # Salida:
 print(f"Hola {nombre}, bienvenido. Tienes {edad} años")
 ```
-Sol: Hola niclau, bienvenido. Tienes 38 años
+Sol: Hola niclau, bienvenido. Tienes 38 años  
+
+Programa de conversión de monedas.  
+
+```python{
+"""Hola bienvenidos al programa de conversión de monedas de EUROS a LIBRAS"""
+# Valores de entradas:
+valor_euro = float(input("Introduce el monto en Euro:"))
+
+# Ecuación matemática para convertir moneda de euro a libra:
+Valor_libras = valor_euro * 0.86
+
+# Imprimir el valor de la moneda en libras:
+print(f"El monto en libras es: {Valor_libras}")
+```
+
+Sol:  
+Introduce un monto en Euro: 10  
+El  onto en Libras es: 8.6  
+
