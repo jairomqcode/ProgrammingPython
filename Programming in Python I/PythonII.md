@@ -98,12 +98,13 @@ Programa de conversión de monedas.
 
 ```python{
 """Hola bienvenidos al programa de conversión de monedas de EUROS a LIBRAS"""
-# Valores de entradas:
+# Valores de entradas.
 valor_euro = float(input("Introduce el monto en Euro:"))
 
 # Ecuación matemática para convertir moneda de euro a libra:
 Valor_libras = valor_euro * 0.86
 
+# Valores de salidas.
 # Imprimir el valor de la moneda en libras:
 print(f"El monto en Libras es: {Valor_libras}")
 ```
