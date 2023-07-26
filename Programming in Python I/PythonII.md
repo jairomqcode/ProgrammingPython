@@ -105,10 +105,10 @@ valor_euro = float(input("Introduce el monto en Euro:"))
 Valor_libras = valor_euro * 0.86
 
 # Imprimir el valor de la moneda en libras:
-print(f"El monto en libras es: {Valor_libras}")
+print(f"El monto en Libras es: {Valor_libras}")
 ```
 
 Sol:  
 Introduce un monto en Euro: 10  
-El  onto en Libras es: 8.6  
+El  monto en Libras es: 8.6  
 
