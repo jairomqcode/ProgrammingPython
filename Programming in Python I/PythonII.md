@@ -110,6 +110,6 @@ print(f"El monto en Libras es: {Valor_libras}")
 ```
 
 Sol:  
-Introduce un monto en Euro: 10  
+Introduce el monto en Euro: 10  
 El  monto en Libras es: 8.6  
 
