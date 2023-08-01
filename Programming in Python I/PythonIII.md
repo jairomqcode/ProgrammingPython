@@ -11,3 +11,11 @@ Si No:
   # Ejecutar otro grupo de instrucciones
 """
 ```
+
+Expresado de otra manera:  
+```python{
+if condicion:
+  instrucciones
+else:
+  Otras instrucciones
+```
