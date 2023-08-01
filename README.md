@@ -1,5 +1,7 @@
 # Programming in Python.
- Specialized Program: Python for Everybody.
+ **Specialized Program:** Python for Everybody.
+ University of Michigan.
+ Ph.D. Charles Russell Severance.
 
  | Número de Programa | Nombre del Programa | Link del Repositorio |
  | :----------------: | :-----------------: | :------------------: |
