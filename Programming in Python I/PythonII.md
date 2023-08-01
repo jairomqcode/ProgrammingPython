@@ -46,6 +46,7 @@ El módulo o resto de la división es: 3
 
 # Operadores de Asignación.  
 Los operadores de asignación **se utilizan para asignar valores a las variables** en Python. Son una herramienta poderosa que se puede usar para manipular variables en su código.  
+
 La siguiente tabla muestra los operadores de asignación en Python, junto con sus nombres y descripciones:  
 
 | Operador | Nombre | Descripción |
