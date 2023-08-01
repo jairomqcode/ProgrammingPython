@@ -1,4 +1,6 @@
 # Operadores Aritméticos.  
+Los **operadores** son símbolos especiales que representan cálculos, como la suma o la multiplicación. Los valores a los cuales se aplican esos operadores reciben el nombre de **operandos**.
+
 Los operadores aritméticos **se utilizan para realizar operaciones matemáticas** con números en Python. Se utilizan para realizar operaciones de suma, resta, multiplicación, división, exponenciación y módulo.  
 
 | Operador | Nombre | Descripción |
