@@ -20,7 +20,7 @@ else:
   Otras instrucciones
 ```
 
-Programa que adivina mi color favorito.
+### Programa: Adivina mi color favorito.
 
 ```python{
 # Definimos la variable, entrada de dato:
