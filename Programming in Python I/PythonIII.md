@@ -19,3 +19,18 @@ if condicion:
 else:
   Otras instrucciones
 ```
+
+Programa que adivina mi color favorito.
+
+```python{
+# Definimos la variable, entrada de dato:
+color = input("Adivina mi color favorito: ")
+
+# Condicional: if - else.
+if color == "azul":
+    print("En hora buena")
+    print("El color es azul")
+
+else:
+    print("El color es incorrecto")
+}
