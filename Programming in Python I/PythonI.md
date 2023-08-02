@@ -10,11 +10,6 @@ print("Hola")
 ```
 Sol: Hola
 
-```python{
-print(7)
-```
-Sol: 7
-
 Las cadenas se pueden delimitar tanto por comillas dobles (") como por comillas simples (').
 
 ```python{
