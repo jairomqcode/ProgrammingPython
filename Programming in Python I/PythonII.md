@@ -84,6 +84,7 @@ Sol: 0
 
 # Entrada y Salida de datos.  
 La función **input ()** en Python **se usa para recibir información del usuario**. Es una función incorporada, lo que significa que es parte del propio lenguaje Python.  
+
 La función **print()** en Python **se usa para imprimir la salida en la pantalla**. Es una función incorporada, lo que significa que es parte del propio lenguaje Python. Ejemplo para aplicar las funciones input() y print(): 
 
 ```python{
