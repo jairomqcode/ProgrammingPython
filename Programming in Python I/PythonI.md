@@ -198,7 +198,7 @@ Mi nombre es Jairo Quintas y mi correo es: jairomq@gmail.com
 
 # Función type().  
 
-La **función type()** en Python se usa para obtener el tipo de un objeto. Se necesitan uno o dos argumentos: Si solo se pasa un argumento, la función type() devuelve el tipo del objeto. Si se pasan dos argumentos, el primer argumento es el objeto y el segundo argumento es el tipo del objeto.  
+La **función type()** en Python se usa para obtener el tipo de un objeto. Se necesitan uno o dos argumentos: si solo se pasa un argumento, la función type() devuelve el tipo del objeto. Si se pasan dos argumentos, el primer argumento es el objeto y el segundo argumento es el tipo del objeto.  
 La **función type()** se puede usar para determinar el tipo de cualquier objeto en Python, incluidos números, cadenas, listas, diccionarios y funciones.
 
 # Tipos de datos.
