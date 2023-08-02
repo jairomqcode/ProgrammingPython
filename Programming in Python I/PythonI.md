@@ -344,7 +344,7 @@ diccionario = {
     "nombre": "Jairo",
     "apellido": "Quintas"
 }
-# Imprimimos dato:
+# Imprimimos datos:
 print(diccionario)
 # Imprimimos el tipo de dato:
 print(type(diccionario))
