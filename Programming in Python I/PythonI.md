@@ -175,26 +175,26 @@ Podemos concatenar cadenas en Python de las siguientes formas:
 # Definimos tres variables:
 nombre = "Jairo"
 apellido = "Quintas"
-correo = "jairomqcode@gmail.com"
+correo = "jairomq@gmail.com"
 # Concatenar usando el operador +, imprimimos en pantalla:
 print(nombre + " " + apellido + " - " + correo)
 ```
 Sol:  
-Jairo Quintas - jairomqcode@gmail.com
+Jairo Quintas - jairomq@gmail.com
 
 ### Concatenar usando la función f{}.
 ```python{
 print(f"{nombre}{apellido} - {correo}")
 ```
 Sol:  
-Jairo Quintas - jairomqcode@gmail.com
+Jairo Quintas - jairomq@gmail.com
 
 ### Concatenar usando el método .format().
 ```python{
 print("Hola me llamo {} {} y mi correo es: {}".format(nombre, apellido, correo))
 ```
 Sol:  
-Mi nombre es Jairo Quintas y mi correo es: jairomqcode@gmail.com
+Mi nombre es Jairo Quintas y mi correo es: jairomq@gmail.com
 
 # Función type().  
 
