@@ -405,7 +405,7 @@ print(numero3 + numero4)
 ```
 Sol: 11.99  
 
-Para que la suma de un número entero y otro flotante me de un valor entero, el tipo de variable flotante debo convertirlo a entero.
+Para que la suma de un número entero y otro flotante me de un valor entero, el tipo de variable flotante se debe convertir a entero.
 
 ```python{
 numero5 = 7
