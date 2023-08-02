@@ -6,7 +6,7 @@ La primera versión de Python se lanzó en 1991 y se llamó Python 0.9.0. Esta v
 
 En 2008, se lanzó Python 3.0. Esta versión fue una revisión importante del idioma y no era completamente compatible con versiones anteriores. Sin embargo, Python 3.0 introdujo una serie de características nuevas que hicieron que el lenguaje fuera aún más potente y flexible.
 
-Hoy en día, Python es uno de los lenguajes de programación más populares del mundo. Se utiliza para una amplia variedad de tareas, incluido el desarrollo web, la ciencia de datos y el aprendizaje automático. Python también es un lenguaje popular para la educación y, a menudo, se usa para enseñar cursos de introducción a la programación.
+Hoy en día, Python es uno de los lenguajes de programación más populares del mundo. Se utiliza para una amplia variedad de tareas, incluido el desarrollo web, computación científica, ciencias de datos y el aprendizaje automático. Python también es un lenguaje popular para la educación y, a menudo, se usa para enseñar cursos de introducción a la programación.
 
 Estos son algunos de los hitos clave en la historia de la programación en Python:
 
@@ -38,12 +38,5 @@ Estas son algunas de las características clave de Python:
 - Soporte para múltiples paradigmas de programación.  
 - Amplia biblioteca estándar.  
 - Comunidad activa de desarrolladores.  
-
-Si está interesado en aprender Python, hay muchos recursos disponibles en línea y en bibliotecas. También hay muchos cursos y tutoriales en línea que pueden ayudarlo a comenzar. Estos son algunos de los recursos que puede utilizar para aprender Python:  
-Tutorial de Python: https://docs.python.org/3/tutorial/  
-Aprenda Python: https://www.learnpython.org/  
-Python para principiantes: https://www.pythonforbeginners.com/  
-Háblame Python: https://talkpython.fm/  
-Python real: https://realpython.com/  
 
 Python es un lenguaje de programación poderoso y versátil que utilizan millones de personas en todo el mundo. Es una excelente opción para una variedad de tareas y también es un lenguaje popular para la educación. La historia de la programación en Python es larga y rica, y está claro que el lenguaje sigue siendo fuerte.
