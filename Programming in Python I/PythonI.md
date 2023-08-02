@@ -375,8 +375,8 @@ En Python, los tipos de datos se utilizan para clasificar un tipo específico de
 
 ```python{
 # Definimos dos variables:
-texto = "Hola nico y lau"
-numero = 7
+texto = "Hola nico y lau"     #Dato tipo string
+numero = 7                    #Dato tipo entero
 # Concatenar las dos variables:
 print(texto + " " + numero)
 ```
