@@ -149,12 +149,7 @@ texto = "Hola"
 texto2 = "Nico y Lau"
 numero = 8
 decimal = 8.8
-```
-```python
-#También, podemos redefinir o reasignar valores:
-#numero = 4
-#decimal = 4.4
-```
+```  
 Mostrar el valor de las variables:
 ```python
 print(texto)
