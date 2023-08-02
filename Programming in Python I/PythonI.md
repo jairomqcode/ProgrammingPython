@@ -103,6 +103,11 @@ print("Nico y Lau")
 ```
 Sol: Hola Nico y Lau
 
+También, podemos utilizar como argumentos caracteres numéricos.  
+```python{
+print(7)
+```
+Sol: 7
 
 # Comentarios.  
 
