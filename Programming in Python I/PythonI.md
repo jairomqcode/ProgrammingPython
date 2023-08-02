@@ -150,7 +150,7 @@ texto2 = "Nico y Lau"
 numero = 8
 decimal = 8.8
 ```  
-Mostrar el valor de las variables:
+Para mostrar el valor de las variables en la consola, utilizamos la función print() y dentro colocamos el nombre de la variable.
 ```python
 print(texto)
 print(texto2)
