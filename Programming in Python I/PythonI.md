@@ -111,6 +111,8 @@ Sol: 7
 
 # Comentarios.  
 
+Los comentarios en Python tienen las siguientes características:
+
 1. Comienzan con el carácter numeral, # , y se extienden hasta el final visible de la línea.
 ```python{
 # Esto es un comentario.
