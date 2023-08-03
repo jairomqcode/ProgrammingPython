@@ -47,3 +47,15 @@ En Python existen ciertos tipos de operadores, llamados operadores de comparaci�
 | > | Mayor que | devuelve **True** si el operando izquierdo es mayor que el operando derecho, **False** en caso contrario |
 | <= | Menor o igual que | devuelve **True** si el operando izquierdo es menor o igual que el operando derecho, **False** en caso contrario |
 | >= | Mayor o igual que | devuelve **True** si el operando izquierdo es mayor o igual que el operando derecho, **False** en caso contrario |
+
+```python{
+# Programa que nos indica si la variable year (que tiene un valor de 2021) es mayor o igual que el año actual 2023:
+# Definimos la variable:
+year = 2021
+
+# Creamos las condiciones:
+if yaer >= 2023:
+  print("Estamos en 2023 en adelante!)
+else:
+  print("Es un año anterior a 2023")
+```
