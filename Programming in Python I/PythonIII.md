@@ -41,3 +41,9 @@ En Python existen ciertos tipos de operadores, llamados operadores de comparaci√
 
 | Operador | Nombre | Descripci√≥n |
 | :------: | :------: | :------: |
+| == | Igual | devuelve **True** si los dos operandos son iguales, **False** en caso contrario |
+| != | Distinto | devuelve **True** si los dos operandos no son iguales, **False** en caso contrario |
+| < | Menor que | devuelve **True** si el operando izquierdo es menor que el operando derecho, **False** en caso contrario |
+| > | Mayor que | devuelve **True** si el operando izquierdo es mayor que el operando derecho, **False** en caso contrario |
+| <= | Menor o igual que | devuelve **True** si el operando izquierdo es menor o igual que el operando derecho, **False** en caso contrario |
+| >= | Mayor o igual que | devuelve **True** si el operando izquierdo es mayor o igual que el operando derecho, **False** en caso contrario |
