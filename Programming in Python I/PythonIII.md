@@ -119,3 +119,19 @@ else:
 Sol:  
 Introduce el número del día de la semana: 2  
 Es martes
+
+# Operadores lógicos y múltiples condicionales.   
+```python{
+# Programa que indica si una persona tiene edad para trabajar.
+edad_oficial = int(input("Tienes edad para trabajar? Introduce tu edad?: "))
+edad_minima = 18
+edad_maxima = 65
+
+if edad_oficial >= 18 and edad_oficial <= 65:
+  print("Esta en edad de trabajar")
+else:
+  print("No esta en edad de trabajar")
+```
+Sol:  
+Tienes edad para trabajar? Introduce tu edad?: 20  
+Esta en edad de trabajar
