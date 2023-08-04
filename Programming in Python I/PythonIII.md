@@ -83,4 +83,39 @@ else:
 ```
 Sol:  
 Gian Nacci es mayor de edad!!  
-El usuario es Europeo y de la ciudad de Roma
+El usuario es Europeo y de la ciudad de Roma  
+
+## Condicional elif.  
+La declaración **elif** en Python se usa para verificar condiciones adicionales después de la declaración **if**. Es la abreviatura de **"else if"** y se puede usar varias veces en un programa. La sintaxis de la instrucción **elif** es la siguiente:  
+
+```python{
+if condition1:
+  # code to be executed if condition1 is True
+elif condition2:
+  # code to be executed if condition2 is True
+elif condition3:
+  # code to be executed if condition3 is True
+else:
+  # code to be executed if none of the conditions are True
+```
+
+```python{
+# Programa que indica el dia de la semana.
+dia = int(input("Introduce el número del día de la semana: "))
+
+if dia == 1:
+  print("Es lunes")
+elif dia == 2:
+  print("Es martes")
+elif dia == 3:
+  print("Es miércoles")
+elif dia == 4:
+  print("Es jueves")
+elif dia == 5:
+  print("Es viernes")   
+else:
+  print("Es fin de semana")
+```
+Sol:
+Introduce el número del día de la semana: 2
+Es martes
