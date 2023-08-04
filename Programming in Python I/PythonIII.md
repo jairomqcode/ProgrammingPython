@@ -83,4 +83,4 @@ else:
 ```
 Sol:  
 Gian Nacci es mayor de edad!!  
-El usuario es Europeo y de la ciudad de Roma.
+El usuario es Europeo y de la ciudad de Roma
