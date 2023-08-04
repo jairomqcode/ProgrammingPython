@@ -59,3 +59,25 @@ else:
   print("Es un año anterior a 2023")
 ```
 Sol: Es un año anterior a 2023
+
+```python{
+# Programa que nos muestra si una persona es mayor de edad o no, si es así, nos muestra el continente y ciudad de la persona.
+# Definimos las variables:
+nombre = "Gian Nacci"
+ciudad = "Roma"
+continente = "Europeo"
+edad = 20
+mayoria_edad = 18
+
+# Condicionales:
+if edad >= mayoria_edad:
+  print(f"{nombre} es mayor de edad!!")
+
+  if continente == "Europeo":
+    print(f"El usuario es Europeo y de la ciudad de {ciudad}")
+  else:
+    print("No es Europeo")
+
+else:
+   print(f"{nombre} no es mayor de edad")
+```
