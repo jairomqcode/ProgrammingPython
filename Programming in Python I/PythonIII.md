@@ -117,5 +117,5 @@ else:
   print("Es fin de semana")
 ```
 Sol:
-Introduce el número del día de la semana: 2
+Introduce el número del día de la semana: 2  
 Es martes
