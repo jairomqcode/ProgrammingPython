@@ -116,6 +116,6 @@ elif dia == 5:
 else:
   print("Es fin de semana")
 ```
-Sol:
+Sol:  
 Introduce el número del día de la semana: 2  
 Es martes
