@@ -81,3 +81,6 @@ if edad >= mayoria_edad:
 else:
    print(f"{nombre} no es mayor de edad")
 ```
+Sol:  
+Gian Nacci es mayor de edad!!  
+El usuario es Europeo y de la ciudad de Roma.
