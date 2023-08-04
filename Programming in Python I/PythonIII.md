@@ -122,7 +122,7 @@ Es martes
 
 # Operadores lógicos y múltiples condicionales.   
 
-| Operador | Significado |
+| Operadores lógicos | Significado |
 | :------: | :---------: |
 | and | Y |
 | or | O |
