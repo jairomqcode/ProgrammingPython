@@ -121,6 +121,14 @@ Introduce el número del día de la semana: 2
 Es martes
 
 # Operadores lógicos y múltiples condicionales.   
+
+| Operador | Significado |
+| :------: | :---------: |
+| and | Y |
+| or | O |
+| ! | negación |
+| not | NO |
+
 ```python{
 # Programa que indica si una persona tiene edad para trabajar.
 edad_oficial = int(input("Tienes edad para trabajar? Introduce tu edad?: "))
