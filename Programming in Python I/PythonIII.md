@@ -169,3 +169,14 @@ else:
 ```
 Sol:
 Rusia no es de habla hispana!
+
+```python{
+# Definimos la variable:
+pais = "Colombia"
+#Condicional:
+if pais != "Venezuela" and pais != "España" and pais != "Colombia":
+    print(f"{pais} No es de habla hispana!")
+else:
+    print(f"{pais} Si es de habla hispana!")
+```
+Sol: Colombia Si es de habla hispana!
