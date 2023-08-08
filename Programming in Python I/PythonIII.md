@@ -143,3 +143,17 @@ else:
 Sol:  
 Tienes edad para trabajar? Introduce tu edad?: 20  
 Esta en edad de trabajar
+
+
+```python{
+# Programa que comprueba si la información (pais) contenido en una variable es de habla hispana.
+# Definimos la variable:
+pais = "España"
+
+#Condicional:
+if pais == "Venezuela" or pais == "España" or pais == "Colombia":
+    print(f"{pais} es de habla hispana!")
+else:
+    print(f"{pais} no es de habla hispana!")
+```
+Sol: España es de habla hispana!
