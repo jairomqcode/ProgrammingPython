@@ -297,7 +297,7 @@ Sol:
 [38, 8, 4, 2023]  
 <class 'list'>
 
-* Dato tipo listaString:
+* Dato tipo lista String:
 ```python{
 # Definimos la variable:
 listaString = [18, "treinta", 38, "cuarenta"]
