@@ -36,6 +36,7 @@ else:
 }
 ```
 
+# Operadores de comparación.
 En Python existen ciertos tipos de operadores, llamados operadores de comparación, que se utilizan para trabajar con las condicionales if - else. Estos operadores los podemos observar a continuación:
 
 
