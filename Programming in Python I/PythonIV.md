@@ -9,3 +9,5 @@ for variable in elemento_iterable:
 ```
 
 El iterable puede ser una lista, una tupla, un conjunto, un diccionario, etc. La variable se utiliza para iterar sobre los elementos del iterable. En cada iteración, la variable toma el valor del siguiente elemento del iterable. El bloque de instrucciones se ejecuta una vez por cada elemento del iterable.
+
+El bucle for es una estructura de control muy versátil y se puede utilizar para realizar una gran variedad de tareas. Es una herramienta muy útil para recorrer colecciones de datos y realizar operaciones repetitivas.
