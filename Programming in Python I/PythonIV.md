@@ -18,3 +18,4 @@ Aquí hay algunos ejemplos de cómo se puede utilizar el bucle for en Python:
 * Recorrer un diccionario y mostrar el valor de cada clave.
 * Recorrer una matriz y calcular su suma.
 * Recorrer una cadena de caracteres y contar el número de ocurrencias de cada letra.
+
