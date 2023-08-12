@@ -33,7 +33,7 @@ if color == "azul":
 
 else:
     print("El color es incorrecto")
-}
+
 ```
 
 # Operadores de comparación.
