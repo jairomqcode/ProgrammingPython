@@ -32,18 +32,24 @@ Voy por el número: 0
 Voy por el número: 1  
 Voy por el número: 2
 
-Programa que imprime la tabla de multiplicar que desea el usuario:
+Programa que imprime la tabla de multiplicar del número (1 al 10) que desea el usuario:
 ```python{
 # Entrada de datos:
 numero_usuario = int(input("Introduce un número: "))
-print(f"La tabla del número {numero_usuario}.")
 
-#Bucle For:
-for tabla_multiplicar in range(0, 11):
-    #Operación matemática:
-    valor = numero_usuario * tabla_multiplicar
-    #Salida:
-    print(f"{numero_usuario} * {tabla_multiplicar} = {valor}")
+# Condicional:
+if numero_usuario < 11:
+    print(f"La tabla del número {numero_usuario}.")
+
+    #Bucle For:
+    for tabla_multiplicar in range(0, 11):
+        #Operación matemática:
+        valor = numero_usuario * tabla_multiplicar
+        #Salida:
+        print(f"{numero_usuario} * {tabla_multiplicar} = {valor}")
+
+else:
+    print("Número prohibido")
 ```
 Sol:  
 Introduce un número: 2  
