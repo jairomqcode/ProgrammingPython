@@ -19,3 +19,25 @@ Aquí hay algunos ejemplos de cómo se puede utilizar el bucle for en Python:
 * Recorrer una matriz y calcular su suma.
 * Recorrer una cadena de caracteres y contar el número de ocurrencias de cada letra.
 
+Programa ejemplo donde una variable itera:
+```python{
+# Definimos una varible:
+contador = 0
+# Bucle:
+for contador in range(0,10):
+    print(f"Voy por el número: {contador}")
+```
+
+Programa que imprime la tabla de multiplicar que desea el usuario:
+```python{
+# Entrada de datos:
+numero_usuario = int(input("Introduce un número: "))
+print(f"La tabla del número {numero_usuario} es: ")
+
+#Bucle For:
+for tabla_multiplicar in range(0, 11):
+    #Operación matemática:
+    valor = numero_usuario * tabla_multiplicar
+    #Salida:
+    print(f"{numero_usuario} * {tabla_multiplicar} = {valor}")
+```
