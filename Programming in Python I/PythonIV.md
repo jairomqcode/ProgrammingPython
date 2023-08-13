@@ -36,7 +36,7 @@ Programa que imprime la tabla de multiplicar que desea el usuario:
 ```python{
 # Entrada de datos:
 numero_usuario = int(input("Introduce un número: "))
-print(f"La tabla del número {numero_usuario} es: ")
+print(f"La tabla del número {numero_usuario}.")
 
 #Bucle For:
 for tabla_multiplicar in range(0, 11):
@@ -45,3 +45,16 @@ for tabla_multiplicar in range(0, 11):
     #Salida:
     print(f"{numero_usuario} * {tabla_multiplicar} = {valor}")
 ```
+Sol:  
+Introduce un número: 2  
+La tabla del numero 2.
+2 * 1 = 2
+2 * 2 = 4
+2 * 3 = 6
+2 * 4 = 8
+2 * 5 = 10
+2 * 6 = 12
+2 * 7 = 14
+2 * 8 = 16
+2 * 9 = 18
+2 * 10 = 20
