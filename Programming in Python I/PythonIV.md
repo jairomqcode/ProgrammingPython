@@ -47,7 +47,7 @@ for tabla_multiplicar in range(0, 11):
 ```
 Sol:  
 Introduce un número: 2  
-La tabla del numero 2.  
+La tabla del número 2.  
 2 * 1 = 2  
 2 * 2 = 4  
 2 * 3 = 6  
