@@ -28,8 +28,8 @@ for contador in range(0,3):
     print(f"Voy por el número: {contador}")
 ```
 Sol:  
-Voy por el número: 0
-Voy por el número: 1
+Voy por el número: 0  
+Voy por el número: 1  
 Voy por el número: 2
 
 Programa que imprime la tabla de multiplicar que desea el usuario:
