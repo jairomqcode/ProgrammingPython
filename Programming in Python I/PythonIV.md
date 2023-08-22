@@ -75,4 +75,25 @@ while condición:
     actualización de contador
 ```
 
-Donde el **bloque de instrucciones** es una expresión booleana que se evalúa como Verdadero o Falso. Si **bloque de código** es Verdadero, se ejecuta el bloque de código. A continuación, el bloque de código se vuelve a ejecutar, y así sucesivamente, hasta que **bloque de código** se evalúe como Falso.
+Donde el **bloque de instrucciones** es una expresión booleana que se evalúa como Verdadero o Falso. Si **bloque de código** es Verdadero, se ejecuta el bloque de código. A continuación, el bloque de código se vuelve a ejecutar, y así sucesivamente, hasta que **bloque de código** se evalúe como Falso.  
+
+```python{
+contador = 0
+while contador < 10:
+  print(contador)
+  contador = contador + 1
+```
+Sol:  
+0  
+1  
+2  
+3  
+4  
+5  
+6  
+7  
+8  
+9  
+
+
+
