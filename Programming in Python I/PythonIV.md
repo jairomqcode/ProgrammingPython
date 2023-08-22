@@ -95,5 +95,15 @@ Sol:
 8  
 9  
 
+Programa que imprime la tabla de multiplicar del número (1 al 10) que desea el usuario:  
+```python{
+numero_usuario = int(input("De que numero quieres la tabla?:  "))
 
-
+print(f"Tabla del {numero_usuario}")
+contador = 1
+while contador <= 10:
+    print(f"{numero_usuario} x {contador} = {numero_usuario*contador}"}
+    contador += 1
+else:
+    print("Tabla terminada.")
+```
