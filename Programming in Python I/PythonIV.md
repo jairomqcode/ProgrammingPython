@@ -68,6 +68,8 @@ La tabla del número 2.
 ## Bucle While.  
 Estructura de control que itera o repite la ejecución de una serie de instrucciones tantas veces como sea necesario, hasta que deje de cumplirse la condición.  
 
+```python{
 while condición:
     bloque de instrucciones
     actualización de contador
+```
