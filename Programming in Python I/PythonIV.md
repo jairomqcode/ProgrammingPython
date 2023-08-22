@@ -66,10 +66,13 @@ La tabla del número 2.
 2 * 10 = 20  
 
 ## Bucle While.  
-Estructura de control que itera o repite la ejecución de una serie de instrucciones tantas veces como sea necesario, hasta que deje de cumplirse la condición.  
+
+Un ciclo while en Python es una declaración de flujo de control que ejecuta un bloque de código repetidamente hasta que se cumple una condición determinada. La sintaxis de un ciclo while es la siguiente:
 
 ```python{
 while condición:
     bloque de instrucciones
     actualización de contador
 ```
+
+Donde el **bloque de instrucciones** es una expresión booleana que se evalúa como Verdadero o Falso. Si **bloque de código** es Verdadero, se ejecuta el bloque de código. A continuación, el bloque de código se vuelve a ejecutar, y así sucesivamente, hasta que **bloque de código** se evalúe como Falso.
