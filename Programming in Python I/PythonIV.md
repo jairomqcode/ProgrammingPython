@@ -97,7 +97,7 @@ Sol:
 
 Programa que imprime la tabla de multiplicar del número (1 al 10) que desea el usuario:  
 ```python{
-numero_usuario = int(input("De que numero quieres la tabla?:  "))
+numero_usuario = int(input("De que número quieres la tabla?:  "))
 
 print(f"Tabla del {numero_usuario}")
 contador = 1
@@ -107,3 +107,20 @@ while contador <= 10:
 else:
     print("Tabla terminada.")
 ```
+Sol:  
+De que número quieres la tabla?: 1  
+Tabla del 1  
+1 x 1 = 1  
+1 x 2 = 2  
+1 x 3 = 3  
+1 x 4 = 4  
+1 x 5 = 5  
+1 x 6 = 6  
+1 x 7 = 7  
+1 x 8 = 8  
+1 x 9 = 9  
+1 x 10 = 10  
+Tabla terminada.
+
+
+
