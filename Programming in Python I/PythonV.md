@@ -14,3 +14,5 @@ continente = "Europa"        #Dato tipo string.
 
 print(f"Hola mi nombre es Jairo soy de {pais} que pertenece al continente de {continente}")
 ```
+Sol:  
+Hola mi nombre es Jairo soy de España que pertenece al continente de Europa
