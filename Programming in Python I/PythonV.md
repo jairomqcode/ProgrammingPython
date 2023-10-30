@@ -72,3 +72,25 @@ El cuadrado de 7 es igual a 49
 El cuadrado de 8 es igual a 64  
 El cuadrado de 9 es igual a 81  
 El cuadrado de 10 es igual a 100
+
+## Ejercicio 4.
+```Python{
+""
+Escribir un programa que muestre todos los números entre dos números que diga el usuario.
+"""
+
+# Información de parte del usuario:
+# Número1:
+numero_1 = int(input("Introduzca el número 1: "))
+# Número2:
+numero_2 = int(input("Introduzca el número 2: "))
+
+# Programa principal: utilizamos las siguientes condicionales.
+if numero_1 < numero_2:
+    # Utlilizamos el bucle for:
+    for numero in range(numero_1, numero_2 + 1):
+        print(f"{numero}")
+
+else:
+    print("Número 1 debe ser menor que número 2")
+```
